@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/fruits_loop.fire",orientation:"",jsList:["assets/libs/socket.io.min.b601f.js"],bundleVers:{internal:"d17e2",resources:"d024d",main:"54b8f"}};
